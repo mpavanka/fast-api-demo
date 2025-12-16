@@ -5,5 +5,5 @@ class products(BaseModel):
     name: str
     description: str
     price: float
-    quality: int
+    quantity: int
         
